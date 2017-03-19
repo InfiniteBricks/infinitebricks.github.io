@@ -1,7 +1,9 @@
 # Nikola static site generator
 cache/
 output/
-.doit.db
+.doit.db.bak
+.doit.db.dat
+.doit.db.dir
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
