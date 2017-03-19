@@ -1,0 +1,4 @@
+Sitemap: https://infinitebricks.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: infinitebricks.github.io
