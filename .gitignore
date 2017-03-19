@@ -1,6 +1,6 @@
 # Nikola static site generator
 cache/
-.doit.db.*
+.doit.db*
 output/
 
 # Byte-compiled / optimized / DLL files
